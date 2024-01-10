@@ -20,7 +20,7 @@ The project's code is organized into three main classes, following the **Model-V
 - **Model (TSPSolver):** 
    - Implements the nearest neighbor algorithm to solve the TSP.
    - Represents the model in the MVC architecture, handling data and business logic, such as calculating the TSP solution.
-
+     
 - **View (TSPView):** 
    - Takes care of drawing cities and the TSP solution on the canvas.
    - Acts as the view in the MVC architecture, dealing with the user interface and visualization.
@@ -30,6 +30,8 @@ The project's code is organized into three main classes, following the **Model-V
    - Manages the GUI components such as the canvas, sliders, and labels.
    - Handles city initialization, TSP solving, and GUI updates.
    - Acts as the controller in the MVC architecture, managing user input, updating the model, and triggering visual updates on the view.
+
+<p> <img src="assets/tspSolver.png" width=700"/> </p>
 
 ```
 .
