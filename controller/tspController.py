@@ -1,7 +1,8 @@
 import tkinter
 import random
-from model import City, TSPSolver
-from view import TSPView
+from model.tspSolver import TSPSolver
+from model.city import City
+from view.tspView import TSPView
 
 class TSPController:
     def __init__(self):

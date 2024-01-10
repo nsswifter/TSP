@@ -1,10 +1,6 @@
 import random
 import math
 
-class City:
-    def __init__(self, x, y):
-        self.x = x
-        self.y = y
 
 class TSPSolver:
     def __init__(self, cities):
