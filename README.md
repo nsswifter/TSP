@@ -31,7 +31,8 @@ The project's code is organized into three main classes, following the **Model-V
    - Handles city initialization, TSP solving, and GUI updates.
    - Acts as the controller in the MVC architecture, managing user input, updating the model, and triggering visual updates on the view.
 
-<p> <img src="assets/tspSolver.png" width=700"/> </p>
+<details>
+ <summary>Project's Source Tree</summary>
 
 ```
 .
@@ -48,6 +49,9 @@ The project's code is organized into three main classes, following the **Model-V
     ├── tspView.py
     └── view.py
 ```
+</details>
+
+<p> <img src="assets/tspSolver.png" width=700"/> </p>
 
 ## Dependencies
 To run this project, ensure you have the following dependencies installed:
