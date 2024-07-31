@@ -1,7 +1,7 @@
 # Traveling Salesman Problem (TSP) Visualization
 This Python project uses Tkinter for creating a GUI to visualize the **Traveling Salesman Problem (TSP)** solution, following the *Model-View-Controller (MVC)* architecture.
 
-![Demo](assets/Demo.mov)
+<p align="center"><img src="assets/Demo.mov"/></p>
 
 ## Table of Contents
 - [Introduction](#introduction)
